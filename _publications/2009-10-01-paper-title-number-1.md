@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
 date: 2009-10-01
 venue: 'NeurIPS 2023 spotlight'
-paperurl: 'https://arxiv.org/abs/2310.07234'
+paperurl: '[paper](https://arxiv.org/abs/2310.07234)/[code](https://github.com/thu-ml/HiDe-Prompt)'
 citation: 'Liyuan Wang, Jingyi Xie, Xingxing Zhang, Mingyi Huang, Hang Su, Jun Zhu. (2023). Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality'
 ---
 This paper is about the number 2. The number 3 is left for future work.
