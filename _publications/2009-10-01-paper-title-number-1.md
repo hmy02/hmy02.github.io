@@ -10,6 +10,6 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://arxiv.org/abs/2310.07234)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Wang, L., Xie, J., Zhang, X., **Huang, M.**, Su, H., & Zhu, J. (2023). Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality. arXiv preprint arXiv:2310.07234.
