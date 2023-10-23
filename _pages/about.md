@@ -14,6 +14,6 @@ You can find my CV here: [Huang's Curriculum Vitae](../assets/CV_M.%20Huang.pdf)
 
 [Email](huangmy2024@gmail.com) / [Github](https://github.com/hmy02) / [telephone](+86-18210107390)
 
-**I’m applying for a PhD program for Fall 2024. Feel free to email me for potential opportunities.**
+**I am currently in the process of applying to PhD programs for Fall 2024 and am actively seeking potential opportunities. Please feel free to reach out to me via email if you have any openings or suggestions. I am very eager to learn and contribute to the field.**
 
 
