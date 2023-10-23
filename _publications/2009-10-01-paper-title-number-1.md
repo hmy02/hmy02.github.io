@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'NeurIPS 2023 spotlight'
+paperurl: 'https://arxiv.org/abs/2310.07234'
+citation: 'Wang, L., Xie, J., Zhang, X., **Huang, M.**, Su, H., & Zhu, J. (2023). Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality. '
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](https://arxiv.org/abs/2310.07234)
-
-Recommended citation: Wang, L., Xie, J., Zhang, X., **Huang, M.**, Su, H., & Zhu, J. (2023). Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality. arXiv preprint arXiv:2310.07234.
