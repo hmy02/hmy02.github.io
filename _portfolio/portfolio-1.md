@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Generalized LS calibration for expensive computer models"
+excerpt: "An enhanced calibration method by adding variance term using GP surrogate model <br/><img src='/images/portfolio1.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Computer calibration is of great relevance in various fields such as industry and commerce. Our work aims to create a new computer calibration algorithm GOLS to improve the accuracy. We give proofs from a theoretical aspect and compare it with two other computer calibration methods (KO and OLS) in real physical experiments.
