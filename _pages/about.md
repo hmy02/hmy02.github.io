@@ -14,7 +14,7 @@ Besides, I'm very interested in the application of AI in games, and I'd like to 
 
 You can find my CV here: [Huang's Curriculum Vitae](../assets/CV_M.%20Huang.pdf).
 
-[Email](huangmy2024@gmail.com) / [Github](https://github.com/hmy02) / [Telephone](+86-18210107390)
+If you are interested in continuous learning, you can bookmark our [paperlist](https://github.com/lywang3081/Awesome-Continual-Learning) to access the latest achievements in the field.
 
 **I am currently in the process of applying to PhD programs for Fall 2024 and am actively seeking potential opportunities. Please feel free to reach out to me via email if you have any openings or suggestions.**
 
