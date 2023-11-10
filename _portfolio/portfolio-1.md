@@ -1,6 +1,6 @@
 ---
-title: "Generalized LS calibration for expensive computer models"
-excerpt: "An enhanced calibration method by adding variance term using GP surrogate model <br/><img src='/images/portfolio1.png'>"
+title: "GLS Calibration"
+excerpt: "Generalized LS calibration for expensive computer models <br/><img src='/images/portfolio1.png'>"
 collection: portfolio
 ---
 
