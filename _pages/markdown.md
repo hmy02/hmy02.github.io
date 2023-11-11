@@ -24,6 +24,6 @@ I like skiing, playing basketball and tennis
 
 I'm good at playing the piano, which achieved grade 10 piano performance for amateurs by the Chinese Musicians Association.
 
-## With My Lovely GF~
+## And My Lovely GF~
 
 <img src="../images/Life3.jpg">
