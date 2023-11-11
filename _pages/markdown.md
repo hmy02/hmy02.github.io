@@ -11,13 +11,11 @@ redirect_from:
 <img src="../images/Life1.jpg">
 
 ## Game
-I like playing almost all kinds of game, especially open-world masterpieces and MOBA games.
-
-<img src="../images/Life2.jpg">
+I like playing almost all kinds of game, including Monster Hunter, which is my favourate, Zelda, Pokemon, Minecraft, CSGO, League of Legends, GTA, etc.
 
 ## Photography
 
-<img src="../images/Life3.jpg">
+<img src="../images/Life2.jpg">
 
 ## Sports & Arts
 I like skiing, playing basketball and tennis
