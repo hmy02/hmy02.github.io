@@ -6,8 +6,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-## Life
-I like travelling, especially with my girlfriend~
+## Travelling
 
 <img src="../images/Life1.jpg">
 
