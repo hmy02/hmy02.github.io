@@ -10,4 +10,4 @@ citation: 'Mingyi Huang, Linlin Wu, Yan Wang. Generalized OLS Calibration for Ex
 ---
 This work studies generalized OLS calibration for expensive computer models.
 
-Mingyi Huang, Linlin Wu, Yan Wang. Generalized OLS Calibration for Expensive Computer Models.
+**Mingyi Huang,** Linlin Wu, Yan Wang. Generalized OLS Calibration for Expensive Computer Models.
