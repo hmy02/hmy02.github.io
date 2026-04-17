@@ -61,10 +61,10 @@ redirect_from:
 }
 </style>
 
-<div style="text-align: center; margin-bottom: 1.5em;">
+<!-- <div style="text-align: center; margin-bottom: 1.5em;">
   <img src="{{ base_path }}/images/osu-logo.png" alt="The Ohio State University logo" style="height: 85px; margin-right: 18px;">
   <img src="{{ base_path }}/images/bjut-logo.png" alt="Beijing University of Technology logo" style="height: 85px;">
-</div>
+</div> -->
 
 Education
 ======
