@@ -10,7 +10,7 @@ redirect_from:
 
 I am a second year PhD student in Computer Science and Engineering at [The Ohio State University](https://www.osu.edu/), advised by Prof. John Paparrizos. My research interests center on building reliable machine learning systems for dynamic environments. My prior work focused on continual learning, and I am now working on time-series anomaly detection.
 
-You can find my CV here: [Huang's Curriculum Vitae](../assets/CV_M.%20Huang.pdf).
+You can find my CV here: [Huang's Curriculum Vitae](../assets/Rusume_Mingyi_Huang.pdf).
 
 If you are interested in continual learning, you can bookmark our [paper list](https://github.com/lywang3081/Awesome-Continual-Learning) to explore recent work in the field.
 
