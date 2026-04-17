@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior undergraduate student from [Faculty of science](https://slxy.bjut.edu.cn/), [Beijing University of Technology](https://www.bjut.edu.cn/). My research interest includes computational neuroscience, machine learning, deep learning and their applications in clinical medicine or sociology. Beyond that, my ultimate life goal is probably to transcend the constraints of existing neural networks and build a brain-like learning model from scratch, even though this might currently be limited by our shallow understanding of the brain.
-
-Besides, I'm very interested in the application of AI in games, and I'd like to make a game where players can build a social legal system from scratch through AI, where players can input their laws in their own words without only being stuck with the options. I'm sure this would be a game with a lot of freedom.
+I am a second year PhD student in Computer Science and Engineering at [The Ohio State University](https://www.osu.edu/), advised by Prof. John Paparrizos. My research interests center on building reliable machine learning systems for dynamic environments. My prior work focused on continual learning, and I am now working on time-series anomaly detection.
 
 You can find my CV here: [Huang's Curriculum Vitae](../assets/CV_M.%20Huang.pdf).
 
-If you are interested in continuous learning, you can bookmark our [paperlist](https://github.com/lywang3081/Awesome-Continual-Learning) to access the latest achievements in the field.
+If you are interested in continual learning, you can bookmark our [paper list](https://github.com/lywang3081/Awesome-Continual-Learning) to explore recent work in the field.
 
-**I am currently in the process of applying to PhD programs for Fall 2024 and am actively seeking potential opportunities. Please feel free to reach out to me via email if you have any openings or suggestions.**
+I am always happy to connect about research, collaboration, or related opportunities. Please feel free to reach out via email.
+
+Beyond research, I am also interested in the application of AI in games. One idea I find especially exciting is building a game in which players can construct a social and legal system from scratch through AI, using natural language to define rules instead of being limited to predefined options.
 
 
