@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Mingyi Huang"
-description              : &description "senior undergraduate student from BJUT"
+description              : &description "PhD student from OSU"
 url                      : https://hmy02.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hmy02/hmy02.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Mingyi Huang"
   avatar           : "profile.png"
-  bio              : "Beijing University of Technology"
-  location         : "China Beijing"
+  bio              : "The Ohio State University"
+  location         : "Columbus, OHIO, U.S."
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
