@@ -86,7 +86,7 @@ Education
     <h3>Beijing University of Technology</h3>
     <p class="cv-meta">Beijing, China | B.S. in Statistics, Minor in Computer Science and Technology | 2024</p>
     <ul>
-      <li>GPA: 3.93/4.0, Rank: 2/26</li>
+      <li>GPA: 3.93/4.0, Rank: 1/26</li>
     </ul>
   </div>
 </div>
