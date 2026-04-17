@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student in Computer Science and Engineering at [The Ohio State University](https://www.osu.edu/), advised by Prof. John Paparrizos. My research interests center on building reliable machine learning systems for dynamic environments. My prior work focused on continual learning, and I am now working on time-series anomaly detection.
+Before starting my Ph.D., I received my B.S. from Beijing University of Technology, where I majored in Statistics, minored in Computer Science, and was advised by Yan Wang. I was also fortunate to spend time conducting research with Hang Su and Liyuan Wang at Tsinghua University, as well as Heng Guo at Beijing University of Posts and Telecommunications. My prior work focused on continual learning, and I am now working on time-series anomaly detection.
 
 You can find my CV here: [Huang's Curriculum Vitae](../assets/Rusume_Mingyi_Huang.pdf).
 
